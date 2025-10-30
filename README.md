@@ -2,6 +2,7 @@
 
 AIの力で、あなたのブログ執筆を劇的に効率化するデスクトップアプリケーションです。
 
+<img width="869" height="662" alt="スクリーンショット 2025-10-30 181510" src="https://github.com/user-attachments/assets/cbf7a925-4d63-4c0a-a672-8421e2750e84" />
 ---
 
 ## ✨ このツールでできること
